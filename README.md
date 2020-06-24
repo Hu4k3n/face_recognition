@@ -4,4 +4,5 @@ python dependencies
 -dlib
 -face_recognition
 -cv2
-Copy known photos in the 'known folder' and run the check_face.py
+Copy known photos in the 'known folder'(u create) and run the check_face.py
+Create an 'unknown' folder too
